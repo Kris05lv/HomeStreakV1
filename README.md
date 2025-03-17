@@ -22,7 +22,7 @@ Installation
     Setup
     
     1.	Clone the repository:
-	        git clone https://
+	        git clone https://github.com/Kris05lv/Home-Streak.git
          
     2.	Create a virtual environment (optional but recommended)
             python -m venv venv
